@@ -1,4 +1,4 @@
-## Dan Gyi - Portfolio
+## Nikita Douglas - Portfolio
 
 This is my learning journey at Makers Academy.
 
