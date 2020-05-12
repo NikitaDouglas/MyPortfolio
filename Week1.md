@@ -1,9 +1,9 @@
 # Week 1
 
 ## Weekly Goals
-1.Test-drive a simple program using objects and methods. 
-2. Pair using the driver-navigator style. 
-3. Follow an effective debugging process. 
+1. Test-drive a simple program using objects and methods.<br/>
+2. Pair using the driver-navigator style.<br/> 
+3. Follow an effective debugging process.<br/> 
 4. Describe some basic OO principles like encapsulation, SRP. 
 
 #### Plans to achieve:
