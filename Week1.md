@@ -27,8 +27,8 @@
 - EVIDENCE: [Test Driving I repo](https://github.com/NikitaDouglas/test_driving_1).
 
 #### Wednesday 21st August
-- GOAL: To continue to improve my ability to apply the principles of TDD.
-- PLAN: Use mroning to complete [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md), and make a start on [Birthdays](https://github.com/makersacademy/birthdays).
+- GOAL: Continue to improve my ability to Test Drive a simple Ruby program; research how to progress through test creation and how to answer the question “What test do I create next?”
+- PLAN: Use morning to complete [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md), and make a start on [Birthdays](https://github.com/makersacademy/birthdays).
 - EVIDENCE: 
   
 #### Thursday 22nd August
