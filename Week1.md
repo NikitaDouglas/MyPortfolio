@@ -28,7 +28,7 @@
 
 #### Wednesday 21st August
 - GOAL: To continue to improve my ability to apply the principles of TDD.
-- PLAN: Complete [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md). Do [Birthdays](https://github.com/makersacademy/birthdays).
+- PLAN: Use mroning to complete [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md), and make a start on [Birthdays](https://github.com/makersacademy/birthdays).
 - EVIDENCE: 
   
 #### Thursday 22nd August
