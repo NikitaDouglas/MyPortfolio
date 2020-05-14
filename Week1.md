@@ -29,11 +29,15 @@
 #### Wednesday 21st August
 - GOAL: Continue to improve my ability to Test Drive a simple Ruby program; research how to progress through test creation and how to answer the question “What test do I create next?”
 - PLAN: Use morning to complete [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md), and make a start on [Birthdays](https://github.com/makersacademy/birthdays).
-- EVIDENCE: 
+- EVIDENCE: Completed [Test Driving I](https://github.com/NikitaDouglas/test_driving_1), and made a start on Birthdays, creating first three tests. I also moved from feature tests to unit tests in yhe Boris Bikes Challenge, and wrote my first unit test for that with my pair partner, using RSpec one-liner syntax. 
+- FEEDBACK: 
+  - Eóin's comment about not needing to know every RSpec matcher was really useful, so I googled for the kind of words I thought I'd need, and used the RSpec documentation.
+  - I didn't get as far through Birthdays as I wanted to and I am worried about how this will impact my goals to get through other exercises this week. I may forego the debugging challenges tomorrow and focus on completing Birthdays instead.
+  - It may be worth ensuring I make notes on all the necessary topics for a week and then concentrate on doing exercises for those things I find most difficult (or think I will); if I'm wrong, I can always go back and do exercises to support my study in a topic I find difficult. 
   
 #### Thursday 22nd August
-- GOAL:
-- PLAN:
+- GOAL: To research encapsulation and and other OO principles. I'd like to be able to have working definitions for these principles by lunchtime.  
+- PLAN: Use Wikipedia and Google to find useful articles on these principles. Make hand-written notes and take photos of them so there is concrete evidence of me having done so. 
 - EVIDENCE:
 
 #### Friday 23rd August
