@@ -31,19 +31,28 @@
 - PLAN: Use morning to complete [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md), and make a start on [Birthdays](https://github.com/makersacademy/birthdays).
 - EVIDENCE: Completed [Test Driving I](https://github.com/NikitaDouglas/test_driving_1), and made a start on Birthdays, creating first three tests; I created the tests before creating any production code. I also moved from feature tests to unit tests in yhe Boris Bikes Challenge, and wrote my first unit test for that with my pair partner, using RSpec one-liner syntax. 
 - FEEDBACK: 
-  - Eóin's comment about not needing to know every RSpec matcher was really useful, so I googled for the kind of words I thought I'd need, and used the RSpec documentation.
-  - I didn't get as far through Birthdays as I wanted to and I am worried about how this will impact my goals to get through other exercises this week. I may forego the debugging challenges tomorrow and focus on completing Birthdays instead.
-  - It may be worth ensuring I make notes on all the necessary topics for a week and then concentrate on doing exercises for those things I find most difficult (or think I will); if I'm wrong, I can always go back and do exercises to support my study in a topic I find difficult. 
+  - SELF-ASSESSMENT: I didn't get as far through Birthdays as I wanted to and I am worried about how this will impact my goals to get through other exercises this week. I may forego the debugging challenges tomorrow and focus on completing Birthdays instead.
+  - It may be worth ensuring I make notes on all the necessary topics for a week and then concentrate on doing exercises for those things I find most difficult (or think I will); if I'm wrong, I can always go back and do exercises to support my study in a topic I find difficult.  
+  - COACH: Eóin's comment about not needing to know every RSpec matcher was really useful, so I googled for the kind of words I thought I'd need, and used the RSpec documentation on Relish. 
+  
   
 #### Thursday 22nd August
 - GOAL: To be able to describe some basic OO principles. 
 - PLAN: To research encapsulation and and other OO principles. Use Wikipedia and Google to find useful articles on these principles. I'd like to be able to have working definitions for these principles by lunchtime. 
-- EVIDENCE: Explain the concepts I have researched to someone else to see if I understand them well enough to explain in a simple logical way.  
+- EVIDENCE: Explain the concepts I have researched to someone else to see if I understand them well enough to explain in a simple logical way.
+- FEEDBACK: 
+  - SELF-ASSESSMENT: I feel confident in my ability to explain these princples. 
+  - PEER GROUP: I explained the OOP concepts of encapsulation, cohesion, coupling, and SRP and got great feedback from my peer group; they said that they could understand my definitions and examples, and that my explanation solidifed their understanding of the concepts. 
 
 #### Friday 23rd August
 - GOAL: Improve my application of TDD, especially my ability to write a test that actually tests the output I want.
-- PLAN: Continue working on the Birthdays exercise following the feedback from our Peer Group session this morning.
-- EVIDENCE: Share my repo with someone and ask for feedback.
+- PLAN: Continue working on the Birthdays exercise.
+- EVIDENCE: Share my repo with my peer group and ask for feedback. This is the repo: [Birthdays](https://github.com/NikitaDouglas/birthdays). 
+FEEDBACK:
+  - SELF-ASSESSMENT: The challenge is incomplete but I wrote most of the necessary tests. The only bits I didn't manage to do were related to Time and the Timecop gem.
+  - PEER GROUP: I had approached the challenge in a similar way to my peer group, and although I hadn't got quite as far with the challenge as two of the group, I had stuck to strict TDD in order to build this skill. 
+  - I got some great feedback on refactoring my tests to describe not only the class but the methods too, which I implemented in the morning to improve readability, and finished the refactor with everything green. 
+  - COACH: Katarina mentioned in a a seperate chat that the `expect(some_class_instance).to respond_to(:some_method)` is mostly onlu useful when beginning with RSpec, so I refactored my tests to remove these examples.  
   
 ## Reflection
 
