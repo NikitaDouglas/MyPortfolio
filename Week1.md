@@ -41,9 +41,9 @@
 - EVIDENCE: Explain the concepts I have researched to someone else to see if I understand them well enough to explain in a simple logical way.  
 
 #### Friday 23rd August
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: Improve my application of TDD, especially my ability to write a test that actually tests the output I want.
+- PLAN: Continue working on the Birthdays exercise following the feedback from our Peer Group session this morning.
+- EVIDENCE: Share my repo with someone and ask for feedback.
   
 ## Reflection
 
