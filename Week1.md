@@ -14,9 +14,17 @@
 
 #### Evidence:
 1. 
-2. 
-3.
-4.
+- Attended workshop on TDD and paired over a dice_app.
+- Worked on the Boris Bikes challenge this week with a different pair each afternoon. My repo is [here](https://github.com/NikitaDouglas/boris_bikes), and [here] is a video of myself as the driver in a pair.
+- Worked through two TDD exercises - [Test Driving I](https://github.com/NikitaDouglas/test_driving_1) and [Birthdays](https://github.com/NikitaDouglas/birthdays).
+2.
+- Paired during the Boris Bikes challenge, with four different pairing partners. Received positive and constructive feedback from them, and from Katarina who reviewed the screen recording of Rachael and my pairing session. In order this week:
+  - Collaborated on [Josh's repository](https://github.com/joshuaabrookuk/Boris_Bikes).
+  - Collaborated on [Emmanuel's repository](https://github.com/Emanuele-20/boris_bike_test).
+  - [Co-authored commits](https://github.com/NikitaDouglas/boris_bikes/commit/7d75601e5210055cc74ffa8683cad5053d594232) on my own repository with Rachael. 
+  - Anthony collaborated on [my repository](https://github.com/NikitaDouglas/boris_bikes/graphs/contributors). 
+3. Attended Debugging Workshop, but did not manage to complete any exercises. However, I did get practice at following the stack trace and googling for errors during the Boris Bikes challenge. 
+4. Researched OOP principles and explained the concepts to my team.
 
 
 ## Daily Goals
