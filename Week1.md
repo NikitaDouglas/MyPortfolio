@@ -29,12 +29,12 @@
 
 ## Daily Goals
 
-#### Tuesday 20th August
+#### Tuesday 12th May
 - GOAL: To improve my ability to apply the principles of TDD.
 - PLAN: Use Tuesday and Wednesday to complete [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md).
 - EVIDENCE: [Test Driving I repo](https://github.com/NikitaDouglas/test_driving_1).
 
-#### Wednesday 21st August
+#### Wednesday 13th May
 - GOAL: Continue to improve my ability to Test Drive a simple Ruby program; research how to progress through test creation and how to answer the question “What test do I create next?”
 - PLAN: Use the morning to complete [Test Driving I](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md), and make a start on [Birthdays](https://github.com/makersacademy/birthdays).
 - EVIDENCE: Completed [Test Driving I](https://github.com/NikitaDouglas/test_driving_1), and made a start on Birthdays, creating the first three tests; I created the tests before creating any production code. I also moved from feature tests to unit tests in the Boris Bikes Challenge, and wrote my first unit test for that with my pair partner, using RSpec one-liner syntax. 
@@ -44,7 +44,7 @@
   - COACH: Eóin's comment about not needing to know every RSpec matcher was useful, so I googled for the kind of words I thought I'd need, and used the RSpec documentation on Relish. 
   
   
-#### Thursday 22nd August
+#### Thursday 14th May
 - GOAL: To be able to describe some basic OO principles. 
 - PLAN: To research encapsulation and other OO principles. Use Wikipedia and Google to find useful articles on these principles. I'd like to be able to have working definitions for these principles by lunchtime. 
 - EVIDENCE: Explain the concepts I have researched to someone else to see if I understand them well enough to explain in a simple logical way.
@@ -52,7 +52,7 @@
   - SELF-ASSESSMENT: I feel confident in my ability to explain these principles. 
   - PEER GROUP: I explained the OOP concepts of encapsulation, cohesion, coupling, and SRP and got great feedback from my peer group; they said that they could understand my definitions and examples and that my explanation solidified their understanding of the concepts. 
 
-#### Friday 23rd August
+#### Friday 15th May
 - GOAL: Improve my application of TDD, especially my ability to write a test that actually tests the output I want.
 - PLAN: Continue working on the Birthday exercise.
 - EVIDENCE: Share my repo with my peer group and ask for feedback. This is the repo: [Birthdays](https://github.com/NikitaDouglas/birthdays). 
