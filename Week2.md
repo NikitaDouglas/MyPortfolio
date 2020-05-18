@@ -34,14 +34,21 @@
 
 ## Daily Goals
 
-#### Tuesday 27th August
+#### Monday 18th May
 - GOAL: 
   - To apply my knowledge of OOP principles. 
   - Get feedback on goal setting.
 - PLAN: Begin the exercises in [OOP_1](https://github.com/makersacademy/skills-workshops/tree/master/week-1/oop_1).
 - EVIDENCE: 
-  - A completed repo - a video of me doing the exercises.
-  - Send Week1.md to Eóin to ask for feedback. 
+  - I completed the exercise in OOP_1, and will ask for feedback on the code snippet from a coach.
+  - Send Week1.md to Eóin to ask for feedback.
+- FEEBACK:
+- **OOP Principles**
+  - SELF-ASSESSMENT: I followed along with the video attached to the OOP_1 skills workshop, and then when the video ended prematurely, I went ahead and did the encapsulation exercise, seperating the methods into two classes, as well as creating a private method in the Calculator class. I feel I understood the principle of encapsulation that the exercise aimed to teach, and I was able to apply that principle.
+  - COACH:
+- **Goal Setting**
+  - SELF-ASSESSMENT: I’ve found the process really helpful - I’ve found my goals to be realistic, though I have had to lower my expectations about what I can reasonably ‘finish’ in a week. On Week 1 my plan for the week did change, and I got a little bit worried about changing my focus - I had to relinquish my aim to do Debugging exercises as it took my longer than planned to do Birthdays, and I was worried that I wouldn’t be able to achieve the goal. But I can rest safe in the knowledge that I'll be using debugging frequently!
+  - COACH:
 
 #### Wednesday 28th August
 - GOAL:
