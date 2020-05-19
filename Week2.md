@@ -14,10 +14,12 @@
 
 #### Plans to achieve:
 
+Eóin suggests treating 1-4 in descending order of priority, so I have used this to formulate my plan for the week.
+
 1. Continue using strict TDD process. Consolidate exisiting knowkedge of OOP principles by doing the [OOP_1](https://github.com/makersacademy/skills-workshops/tree/master/week-1/oop_1) exercise on encapsulation on Monday. Continue to request feedback for pairing, improving each day. Ensure I follow an effective Debugging process when I encounter bugs. 
-2. 
+2. Use Simple Checkout exercise on Tuesday to demonstrate this skill. Timebox to Tuesday as I have explored this skill already in Afternoon and Weekend challenges.  
 3. Further explore mocking by beginning [Mocking_1](https://github.com/makersacademy/skills-workshops/tree/master/week-1/mocking_1) exercise on Wednesday and Thursday morning. On Friday morning, explore [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md).
-4. Use Monday to do OOP_1 (see above). On Tuesday, research forwarding and polymorphism, and look at cocepts in [OOP_2](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_2) and [OOP_3](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_3). 
+4. Use Monday to do OOP_1 (see above). Tuesday lunctime, research abstraction and inheritance, and if there's time forwarding and polymorphism. Wednesday lunchtime, look at cocepts in [OOP_2](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_2) and [OOP_3](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_3). 
 5. Code review on Monday?
 
 #### Evidence:
@@ -51,8 +53,8 @@
   - COACH:
 
 #### Wednesday 28th August
-- GOAL:
-- PLAN: 
+- GOAL: To understand the process of breaking one class into two and be able to apply this skill whilst still maintaining test coverage.
+- PLAN: Do the Simple Checkout exercise highlighted in kick-off.  
 - EVIDENCE: 
 
 #### Thursday 29th August
