@@ -53,9 +53,11 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
   - COACH:
 
 #### Wednesday 28th August
-- GOAL: To understand the process of breaking one class into two and be able to apply this skill whilst still maintaining test coverage.
-- PLAN: Do the Simple Checkout exercise highlighted in kick-off.  
-- EVIDENCE: 
+- GOAL: 
+  - To understand the process of breaking one class into two and be able to apply this skill whilst still maintaining test coverage.
+  - To define 'abstraction' and 'inheritance'. 
+- PLAN: Begin the Simple Checkout exercise highlighted in kick-off. Use brief time after lunch to make notes on  
+- EVIDENCE: Ask for some feedback on the exercise from a coach, as well as self-assessment. Perhaps use this to also explore mocking?
 
 #### Thursday 29th August
 - GOAL: 
