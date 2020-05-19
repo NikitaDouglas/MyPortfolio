@@ -56,7 +56,7 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
 - GOAL: 
   - To understand the process of breaking one class into two and be able to apply this skill whilst still maintaining test coverage.
   - To define 'abstraction' and 'inheritance'. 
-- PLAN: Begin the Simple Checkout exercise highlighted in kick-off. Use brief time after lunch to make notes on  
+- PLAN: Begin the Simple Checkout exercise highlighted in kick-off. Use brief time after lunch to make notes on OOP principles.
 - EVIDENCE: Ask for some feedback on the exercise from a coach, as well as self-assessment. Perhaps use this to also explore mocking?
 
 #### Thursday 29th August
