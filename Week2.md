@@ -50,19 +50,34 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
   - COACH:
 - **Goal Setting**
   - SELF-ASSESSMENT: I’ve found the process really helpful - I’ve found my goals to be realistic, though I have had to lower my expectations about what I can reasonably ‘finish’ in a week. On Week 1 my plan for the week did change, and I got a little bit worried about changing my focus - I had to relinquish my aim to do Debugging exercises as it took my longer than planned to do Birthdays, and I was worried that I wouldn’t be able to achieve the goal. But I can rest safe in the knowledge that I'll be using debugging frequently!
-  - COACH:
+  - COACH: 
 
 #### Wednesday 28th August
 - GOAL: 
   - To understand the process of breaking one class into two and be able to apply this skill whilst still maintaining test coverage.
   - To define 'abstraction' and 'inheritance'. 
-- PLAN: Begin the Simple Checkout exercise highlighted in kick-off. Use brief time after lunch to make notes on OOP principles.
-- EVIDENCE: Ask for some feedback on the exercise from a coach, as well as self-assessment. Perhaps use this to also explore mocking?
+  - To be able to create a Domain model diagram - Class and Sequence. 
+- PLAN: 
+  - Begin the Simple Checkout exercise highlighted in kick-off - perhaps use this to also explore mocking?.
+  - Use brief time after lunch to make notes on OOP principles.
+  - Attend the workshop that covers this and do the exercises asked. Use this skill to create a diagram for my Simple Checkout.
+- EVIDENCE: 
+  - Ask for some feedback on the exercise from a coach, as well as self-assessment. 
+  - Be able to explain to another person what I have researched and made notes on - peer group on Friday morning?
+  - Also ask for coach feedback on Simple Checkout diagrams and README.
+- SELF-ASSESSMENT:
+   - I don't feel like I got much done on the Simple Checkout, as i only managed to create the repository and begin on the Domain Model DIagram after lunch. I'm a little confused about how the "split" is going to happen - my plan creates four classes initially, but I think if I follow the user stories and feature test as I go along, only fulfilling each requirement at a time, I should get to the point where I need to split the 'Item' class into a Basket. I wonder if the basket becomes a subclass of Items?
 
 #### Thursday 29th August
 - GOAL: 
+  - To continue with the aim of breaking one class into two.
+  - To define 'forwarding', and 'polymorphism'.
 - PLAN:
+  - Continue with the Simple Checkout exercise.
+  - Research and make notes on the aforemtnioned OOP principles. 
 - EVIDENCE:
+  - Given that I might not be able to finish Simple Checkout, it may be worth doing a screen recording of my work in order that a coach can see it. In tandem with the README it will help to show my approach. Also, gem installs - RSPec and Simplecov?
+  - Be able to explain to another person what I have researched and made notes on - peer group on Friday morning? Consider creating a presentation to illustrate my knowledge of OOP as I go along.
 
 #### Friday 30th August
 - GOAL:
