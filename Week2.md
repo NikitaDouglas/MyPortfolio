@@ -47,10 +47,10 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
 - FEEBACK:
 - **OOP Principles**
   - SELF-ASSESSMENT: I followed along with the video attached to the OOP_1 skills workshop, and then when the video ended prematurely, I went ahead and did the encapsulation exercise, seperating the methods into two classes, as well as creating a private method in the Calculator class. I feel I understood the principle of encapsulation that the exercise aimed to teach, and I was able to apply that principle.
-  - COACH:
+  - COACH: Very useful feedback from Alice - I suitably demonstrated encapsulation as a principle, but could improve on that with dependency injection, which will also help me to isolate my tests. Alice also recommended I change the name of the Printer class to Formatter in order to reflect what the class does. I also learnt that to move a responsibility to another class is an OOP pattern called delegation. 
 - **Goal Setting**
   - SELF-ASSESSMENT: I’ve found the process really helpful - I’ve found my goals to be realistic, though I have had to lower my expectations about what I can reasonably ‘finish’ in a week. On Week 1 my plan for the week did change, and I got a little bit worried about changing my focus - I had to relinquish my aim to do Debugging exercises as it took my longer than planned to do Birthdays, and I was worried that I wouldn’t be able to achieve the goal. But I can rest safe in the knowledge that I'll be using debugging frequently!
-  - COACH: 
+  - COACH: Really [positive feedback from Eóin](https://drive.google.com/open?id=1RiDjDdrdme0RFeVZSJIzfV86btWRH4mp) about my Week1 portfolio.
 
 #### Wednesday 28th August
 - GOAL: 
