@@ -52,7 +52,7 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
   - SELF-ASSESSMENT: I’ve found the process really helpful - I’ve found my goals to be realistic, though I have had to lower my expectations about what I can reasonably ‘finish’ in a week. On Week 1 my plan for the week did change, and I got a little bit worried about changing my focus - I had to relinquish my aim to do Debugging exercises as it took my longer than planned to do Birthdays, and I was worried that I wouldn’t be able to achieve the goal. But I can rest safe in the knowledge that I'll be using debugging frequently!
   - COACH: Really [positive feedback from Eóin](https://drive.google.com/open?id=1RiDjDdrdme0RFeVZSJIzfV86btWRH4mp) about my Week1 portfolio.
 
-#### Wednesday 28th August
+#### Tuesday 19th May
 - GOAL: 
   - To understand the process of breaking one class into two and be able to apply this skill whilst still maintaining test coverage.
   - To define 'abstraction' and 'inheritance'. 
@@ -66,23 +66,31 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
   - Be able to explain to another person what I have researched and made notes on - peer group on Friday morning?
   - Also ask for coach feedback on Simple Checkout diagrams and README.
 - SELF-ASSESSMENT:
-   - I don't feel like I got much done on the Simple Checkout, as i only managed to create the repository and begin on the Domain Model DIagram after lunch. I'm a little confused about how the "split" is going to happen - my plan creates four classes initially, but I think if I follow the user stories and feature test as I go along, only fulfilling each requirement at a time, I should get to the point where I need to split the 'Item' class into a Basket. I wonder if the basket becomes a subclass of Items?
+   - I don't feel like I got much done on the Simple Checkout, as I only managed to create the repository and begin on the Domain Model DIagram after lunch. I'm a little confused about how the "split" is going to happen - my plan creates four classes initially, but I think if I follow the user stories and feature test as I go along, only fulfilling each requirement at a time, I should get to the point where I need to split the 'Item' class into a Basket. I wonder if the basket becomes a subclass of Items?
 
-#### Thursday 29th August
+#### Wednesday 20th May
 - GOAL: 
   - To continue with the aim of breaking one class into two.
-  - To define 'forwarding', and 'polymorphism'.
 - PLAN:
   - Continue with the Simple Checkout exercise.
-  - Research and make notes on the aforemtnioned OOP principles. 
 - EVIDENCE:
   - Given that I might not be able to finish Simple Checkout, it may be worth doing a screen recording of my work in order that a coach can see it. In tandem with the README it will help to show my approach. Also, gem installs - RSPec and Simplecov?
   - Be able to explain to another person what I have researched and made notes on - peer group on Friday morning? Consider creating a presentation to illustrate my knowledge of OOP as I go along.
+- FEEDBACK:
+  - I managed to do a really great sequencing diagram for Simple Checkout and after sharing that with Rachael I realised that I could use mocking and dependency injection in this exercis. Consequently, I can reformat my plan for the week and spend Thursday and Friday on this exercise, rather than doing individual exercises for mocking and dependency injection.
 
-#### Friday 30th August
+
+#### Thursday 21st May
 - GOAL:
+  - To continue applying my knowledge on how to break a class into two, and also use mocking and dependency injection.
+  - To define 'forwarding', and 'polymorphism'.
 - PLAN:
+  - Continue with the Simple Checkout exercise, using it to demonstrate the knowledge of mocking and dependency injection that I learned yesterday.
+   - Research and make notes on the aforementioned OOP principles. 
 - EVIDENCE:
+  - A completed repository should be sufficient to demonstrate the skills I've set out to apply.
+  
+#### Friday 22nd May
 
 ## Reflection
 
