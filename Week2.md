@@ -65,8 +65,8 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
   - Ask for some feedback on the exercise from a coach, as well as self-assessment. 
   - Be able to explain to another person what I have researched and made notes on - peer group on Friday morning?
   - Also ask for coach feedback on Simple Checkout diagrams and README.
-- SELF-ASSESSMENT:
-   - I don't feel like I got much done on the Simple Checkout, as I only managed to create the repository and begin on the Domain Model DIagram after lunch. I'm a little confused about how the "split" is going to happen - my plan creates four classes initially, but I think if I follow the user stories and feature test as I go along, only fulfilling each requirement at a time, I should get to the point where I need to split the 'Item' class into a Basket. I wonder if the basket becomes a subclass of Items?
+- FEEDBACK:
+   - SELF-ASSESSMENT: I don't feel like I got much done on the Simple Checkout, as I only managed to create the repository and begin on the Domain Model DIagram after lunch. I'm a little confused about how the "split" is going to happen - my plan creates four classes initially, but I think if I follow the user stories and feature test as I go along, only fulfilling each requirement at a time, I should get to the point where I need to split the 'Item' class into a Basket. I wonder if the basket becomes a subclass of Items?
 
 #### Wednesday 20th May
 - GOAL: 
@@ -77,20 +77,34 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
   - Given that I might not be able to finish Simple Checkout, it may be worth doing a screen recording of my work in order that a coach can see it. In tandem with the README it will help to show my approach. Also, gem installs - RSPec and Simplecov?
   - Be able to explain to another person what I have researched and made notes on - peer group on Friday morning? Consider creating a presentation to illustrate my knowledge of OOP as I go along.
 - FEEDBACK:
-  - I managed to do a really great sequencing diagram for Simple Checkout and after sharing that with Rachael I realised that I could use mocking and dependency injection in this exercis. Consequently, I can reformat my plan for the week and spend Thursday and Friday on this exercise, rather than doing individual exercises for mocking and dependency injection.
-
-
+  - SELF-ASSESSMENT: I managed to do a really great sequencing diagram for Simple Checkout and after sharing that with another member of my cohort I realised that I could use mocking and dependency injection in this exercise. Consequently, I can reformat my plan for the week and spend Thursday and Friday on this exercise, rather than doing individual exercises for mocking and dependency injection. As such, I've decided to stick with sending a completed repo to a coach next week.
+  
 #### Thursday 21st May
 - GOAL:
   - To continue applying my knowledge on how to break a class into two, and also use mocking and dependency injection.
   - To define 'forwarding', and 'polymorphism'.
 - PLAN:
   - Continue with the Simple Checkout exercise, using it to demonstrate the knowledge of mocking and dependency injection that I learned yesterday.
-   - Research and make notes on the aforementioned OOP principles. 
+  - Research and make notes on the aforementioned OOP principles. 
 - EVIDENCE:
-  - A completed repository should be sufficient to demonstrate the skills I've set out to apply.
+  - Examples of both doubles and method stubs in my Simple Checkout tests.
+  - Being able to explain these concepts to my peer group. 
+- FEEDBACK:
+- **Breaking a class into two, mocking, and dependency injection**
+  - SELF-ASSESSMENT: Although I didn't get to actually breaking the Checkout class and delegating its private formatter method, I did use doubles and method stubs to test my classes in isolation. I feel like I've got a good grasp of testing with doubles now, even using an each block to stub in different return values for my check_price method in my Checkout class. 
+- **OOP Principles** 
+  - SELF-ASSESSMENT: I didn't manage to get on to defining 'forwarding' and 'polymorphism' today as I was helping another member of my cohort with the Simple Checkout exercise. I will move this research over to the weekend. 
+
   
 #### Friday 22nd May
+- GOAL:
+  - To use dependency injection.
+- PLAN:
+  - Perform the last stage of the Simple Checkout class, delegating the format_price method to a Formatter class, and use dependency injection to be able to test both Checkout and Formatter in isolation. 
+- EVIDENCE:
+  - A completed repository should be sufficient to demonstrate the skills I've set out to apply. I may also take a screen recording of this last stage in the process, in order that I can suitably evidence this week's goal of breaking a class into two. 
+- FEEDBACK:
+
 
 ## Reflection
 
