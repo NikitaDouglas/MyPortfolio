@@ -104,6 +104,9 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
 - EVIDENCE:
   - A completed repository should be sufficient to demonstrate the skills I've set out to apply. I may also take a screen recording of this last stage in the process, in order that I can suitably evidence this week's goal of breaking a class into two. 
 - FEEDBACK:
+  - **Breaking one class into two**
+  - SELF ASSESSMENT: I am really pleased with my completed SimpleCheckout, and feel that I have suitably understood and applied my goals this week.
+  - COACh: Eóin gave me really positive feedback on my [SimpleCheckout](https://github.com/NikitaDouglas/SimpleCheckout). ALthough I added a layer of potentially unecessary complexity with the `buy_item` method, defined on the `Item` class, I suitably demonstrated a sound knowledge of the principles involved.
 
 
 ## Reflection
@@ -113,8 +116,12 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
 
 *Did you meet all of your goals to the standard you set at the start of the week?*
 
+Yes, I think I did. I maintained my practice of Week1's goals, as well as applying mocking, doubling, dependency injection, and extraction with the SimpleCheckout exercise. I enjoyed Code Review and feel that I gave good feedback. 
+
 
 ### Question 2
 
 *What would you change/improve moving forward?*
+
+I feel like I'd benefit from understanding when to use sub-classes, and to better understand the difference between forwarding and delegation in order that I can show my knowledge of these OOP principles in practice. 
 
