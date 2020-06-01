@@ -5,6 +5,11 @@
 1. Build a simple web app with a database
 2. Follow an effective debugging process for database applications
 3. Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
+4. Goals carried over from last week:
+  - Follow an effective debugging process for web applications.
+  - Explain the MVC pattern
+  - Explain what Rack is.
+5. Explain the differenc ebwtween Class and Instance variables and methods, and explain when to use them with reference to web apps. 
 
 #### Plans to achieve:
 
@@ -16,21 +21,30 @@
 - Look through [REST game](https://github.com/sjmog/rest) with Sam on Thursday evening. 
 3.
 - On Monday and Tuesday morning, work through [SQLZoo](https://sqlzoo.net/). 
-- Use Tuesday lunchtime, research [Entity Relationship Diagrams](https://hackmd.io/ICgoC6o8QJOdosAKJ6fhhw).
+- Use Tuesday lunchtime to read through the [Illustrated Guide to Databases](https://illustrated.dev/databases).
+- Use Wednesday lunchtime, research [Entity Relationship Diagrams](https://hackmd.io/ICgoC6o8QJOdosAKJ6fhhw).
 - Use the evenings this week to remind myself of SQL on SoloLearn. 
+4. 
+- Debugging - See Plan #2
+- MVC Pattern - Research and make notes on the MVC pattern, specific to Ruby on Tuesday morning. Begin with [this article](https://medium.com/@sumunchies/general-overview-of-building-a-basic-sinatra-application-using-the-mvc-pattern-ee8f4811c065).
+- Rack - Read and make notes on [this article](https://thoughtbot.com/upcase/videos/rack) on Thursday morning.
+5. Also on Tuesday morning, research the difference and uses of class and instance variables and methods. For variables, see [this article](http://www.railstips.org/blog/archives/2006/11/18/class-and-instance-variables-in-ruby/), and methods see [this one](http://www.railstips.org/blog/archives/2009/05/11/class-and-instance-methods-in-ruby/). Consider asking a coach for an overview. 
 
 #### Evidence:
 
 1. 
 2. 
-3. 
+3.
+4.
+5.
 
 ## Daily Goals
 
 #### Monday 9th September
 - GOAL: To understand the basics of SQL and databases.
 - PLAN: Begin to work through [SQLZoo](https://sqlzoo.net/).
-- EVIDENCE: 
+- EVIDENCE:
+  - SELF-ASSESSMENT: I've worked with SQL before so the language isn't entirely alien to me. I feel that I made good progress with SQLZoo. I feel like I'fd benefit from a refresher as to how this works in practice, so I'll use Tuesday lunctime to read over the illustrated guid to databases. 
 
 #### Tuesday 10th September
 - GOAL:
