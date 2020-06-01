@@ -49,25 +49,24 @@
 - GOAL: To understand how to Debug web applications as opposed to standard applications. 
 - PLAN: Work through [Dubugging 2](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2).
 - EVIDENCE: I should be able to apply this knowledge to our afternoon challenge and the Birthday app I will embark on tomorrow. Also, I want to create a step-by-step approach for debugging web apps that I can stick on my monitor. 
-- FEEDBACk:
+- FEEDBACk: N/A
 
-#### Thursday 28th May
-- GOAL:
-- PLAN:
-- EVIDENCE:
-- FEEDBACk:
-
-#### Firday 29th May
-- GOAL:
-- PLAN:
-- EVIDENCE:
-- FEEDBACk:
 
 ## Reflection
 
 ### Question 1
 
+*Did you meet all of your goals to the standard you set at the start of the week?*
+
+Unfortunately, I don't feel like I did meet my goals this week. I was unwell towards the end of the week, hence the missing goals for Thursday and Friday, and this affected my ability to complete the goals in the manner I had planned. I did get quite far through the battles exercise, and feel confident in my ability to replicate the setup and process of building a web app in the weekend challenge. I do feel that my knowledge of 'how the internet works' is vastly improved, and I understand the process of what's going on far better than I did at the beginning of the week. 
+
+However, I did not manage to follow a debugging process specific to web apps, as I did not complete Debugging 2, and I am not yet able to explain the MVC pattern.
+
 
 ### Question 2
+
+*What would you change/improve moving forward?*
+
+Moving forward, I'd like to improve my ability to build a simple web app in this weekend's challenge. Moreover, I'd like to spend time next week going over the Debugging 2 exercise and researching and understanding the MVC pattern. 
 
 
