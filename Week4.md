@@ -8,42 +8,48 @@
 
 #### Plans to achieve:
 
-1. Build Bookmark Manager and Chitter App
-2. Practise debugging using capybara/sinatra test frameworks
-3. Create planning docs with each of my repos before any code written, understand the relational database and how it can be used.
+1.
+- Build Bookmark Manager and Chitter App.
+- Bildy [Diary App](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/daily_diary_app.md) on Thursday and Friday morning.
+2.
+- Work through [Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2) as I was unable to do so last week.
+- Look through [REST game](https://github.com/sjmog/rest) with Sam on Thursday evening. 
+3.
+- On Monday and Tuesday morning, work through [SQLZoo](https://sqlzoo.net/). 
+- Use Tuesday lunchtime, research [Entity Relationship Diagrams](https://hackmd.io/ICgoC6o8QJOdosAKJ6fhhw).
+- Use the evenings this week to remind myself of SQL on SoloLearn. 
 
 #### Evidence:
 
-1. [Bookmark Manager](https://github.com/DanGyi23/bookmark_manage) and [Chitter App](https://github.com/DanGyi23/chitter-challenge)
-2. Had to debug lots using Capybara, didn't record any of it though.
-3. Example of a [few planning images](https://github.com/DanGyi23/chitter-challenge/tree/master/planning/images) so that writing tests was easy. Found it very useful!
+1. 
+2. 
+3. 
 
 ## Daily Goals
 
 #### Monday 9th September
-- GOAL: Understand SQL a little better
-- PLAN: Read up about databases/SQL
-- EVIDENCE: [Completed SQLZoo tests](https://sqlzoo.net/)
+- GOAL: To understand the basics of SQL and databases.
+- PLAN: Begin to work through [SQLZoo](https://sqlzoo.net/).
+- EVIDENCE: 
 
 #### Tuesday 10th September
-- GOAL: Understand the Ruby/Database relationships in weekly code
-- PLAN: Ducktype every line of code in my weekly project
-- EVIDENCE: None
+- GOAL:
+- PLAN:
+- EVIDENCE:
 
 #### Wednesday 11th September
-- GOAL: Confirm understanding of database-model layer relationship
-- PLAN: Draw database/model diagrams to demonstrate understanding of how DBs interact with model layer of web apps
-- EVIDENCE: A couple of simple domain models [here](https://github.com/DanGyi23/bookmark-mgr/tree/master/domain_models)
+- GOAL:
+- PLAN:
+- EVIDENCE:
 
 #### Thursday 12th September
-- GOAL: Understand one-to-many database relationships, using SQL
-- PLAN: Implement comments in Bookmark Manager (many comments to one bookmark)
-- EVIDENCE: Comments implemented [here](https://github.com/DanGyi23/bookmark_manage) - new class with new database and relational database
-
+- GOAL:
+- PLAN:
+- EVIDENCE:
 #### Friday 13th September
-- GOAL: Understand many-to-many database relationships, using SQL
-- PLAN: Implement tags in Bookmark Manager (many tags to many bookmarks)
-- EVIDENCE: Tags implemented [here](https://github.com/DanGyi23/bookmark_manage)
+- GOAL: 
+- PLAN:
+- EVIDENCE:
 
 ## Reflection
 
@@ -51,12 +57,9 @@
 
 *Did you meet all of your goals to the standard you set at the start of the week?*
 
-Yes, but it took the weekend challenge to really cement my learning. I found using SQL to be quite clunky and difficult to use.
 
 ### Question 2
 
 *What would you change/improve moving forward?*
 
-I'd do extra reading before moving on to another step of a challenge, to make sure I understand fully the theory behind some of the more complex code I'm writing.
-I also need to meditate more and take more breaks! I've downloaded Marinara so that I can focus better and feel better towards the end of the day.
 
