@@ -22,18 +22,6 @@ Eóin suggests treating 1-4 in descending order of priority, so I have used this
 4. Use Monday to do OOP_1 (see above). Tuesday lunctime, research abstraction and inheritance, and if there's time forwarding and polymorphism. Wednesday lunchtime, look at cocepts in [OOP_2](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_2) and [OOP_3](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_3). 
 5. Code review on Monday?
 
-#### Evidence:
-
-1. 
-
-2. 
-
-3.
- 
-4.
- 
-5. 
-
 ## Daily Goals
 
 #### Monday 18th May
