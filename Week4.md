@@ -43,13 +43,14 @@
 #### Monday 9th September
 - GOAL: To understand the basics of SQL and databases.
 - PLAN: Begin to work through [SQLZoo](https://sqlzoo.net/).
-- EVIDENCE:
+- EVIDENCE: A working knowledge of some SQL in order that I can query databases.
+- FEEDBACK: 
   - SELF-ASSESSMENT: I've worked with SQL before so the language isn't entirely alien to me. I feel that I made good progress with SQLZoo. I feel like I'fd benefit from a refresher as to how this works in practice, so I'll use Tuesday lunctime to read over the illustrated guid to databases. 
 
 #### Tuesday 10th September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: To further understand the basics of SQL. 
+- PLAN: Continue working through [SQLZoo](https://sqlzoo.net/).
+- EVIDENCE: A working knowledge of some SQL in order that I can query databases. I should be able to use this knowledge in the afternoon challenge and in other projects I attack this week.  
 
 #### Wednesday 11th September
 - GOAL:
