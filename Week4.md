@@ -9,7 +9,7 @@
   - Follow an effective debugging process for web applications.
   - Explain the MVC pattern
   - Explain what Rack is.
-5. Explain the differenc ebwtween Class and Instance variables and methods, and explain when to use them with reference to web apps. 
+5. Explain the difference between Class and Instance variables and methods, and explain when to use them with reference to web apps. 
 
 #### Plans to achieve:
 
