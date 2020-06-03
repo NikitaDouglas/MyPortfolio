@@ -15,7 +15,7 @@
 
 1.
 - Build Bookmark Manager and Chitter App.
-- Bildy [Diary App](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/daily_diary_app.md) on Thursday and Friday morning.
+- Building [Diary App](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/daily_diary_app.md) on Thursday and Friday morning.
 2.
 - Work through [Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2) as I was unable to do so last week.
 - Look through [REST game](https://github.com/sjmog/rest) with Sam on Thursday evening. 
