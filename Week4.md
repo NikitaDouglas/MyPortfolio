@@ -53,9 +53,9 @@
 - EVIDENCE: A working knowledge of some SQL in order that I can query databases. I should be able to use this knowledge in the afternoon challenge and in other projects I attack this week.  
 
 #### Wednesday 11th September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: To understand what an Entity Relationship Diagram is, its purpose, and how to build one.
+- PLAN: Research and make notes using the [Entity Relationship Diagrams](https://hackmd.io/ICgoC6o8QJOdosAKJ6fhhw).[Entity Relationship Diagrams](https://hackmd.io/ICgoC6o8QJOdosAKJ6fhhw) article as a starting point. 
+- EVIDENCE: Use this technique when building my Diary App tomoorow and get feedback from a coach on the diagram. 
 
 #### Thursday 12th September
 - GOAL:
