@@ -14,8 +14,9 @@
 #### Plans to achieve:
 
 1.
-- Build Bookmark Manager and Chitter App.
-- Building [Diary App](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/daily_diary_app.md) on Thursday and Friday morning.
+- Build Bookmark Manager in the afternoons. 
+- Build Chitter App this weekend.
+
 2.
 - Work through [Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2) as I was unable to do so last week.
 - Look through [REST game](https://github.com/sjmog/rest) with Sam on Thursday evening. 
@@ -51,20 +52,20 @@
 - GOAL: To further understand the basics of SQL. 
 - PLAN: Continue working through [SQLZoo](https://sqlzoo.net/).
 - EVIDENCE: A working knowledge of some SQL in order that I can query databases. I should be able to use this knowledge in the afternoon challenge and in other projects I attack this week.  
+- FEEDBACK:
+  - SELF-ASSESSMENT: I actually relinquished working through SQLZoo as some of the functionality on the website wasn't working. I worked through the [Learn SQL](https://www.codecademy.com/learn/learn-sql) tutorial on Codecademy and found it reall useful. 
 
 #### Wednesday 11th September
 - GOAL: To understand what an Entity Relationship Diagram is, its purpose, and how to build one.
 - PLAN: Research and make notes using the [Entity Relationship Diagrams](https://hackmd.io/ICgoC6o8QJOdosAKJ6fhhw).[Entity Relationship Diagrams](https://hackmd.io/ICgoC6o8QJOdosAKJ6fhhw) article as a starting point. 
 - EVIDENCE: Use this technique when building my Diary App tomoorow and get feedback from a coach on the diagram. 
+- FEEDBACK: 
+  - SELF-ASSESSMENT: I didn't get around to doing this today due to personal stuff going on - I'm going to replace my Friday with working on these things. 
 
-#### Thursday 12th September
-- GOAL:
-- PLAN:
-- EVIDENCE:
 #### Friday 13th September
-- GOAL: 
-- PLAN:
-- EVIDENCE:
+- GOAL: To understand REST patterns in MVC model, Rack, and Entity Relationship Diagrams.
+- PLAN: Use the resources listed above to explore these three concepts. 
+- EVIDENCE: I want to be able to identify these patterns, and perhaps use an Entity Relationship Diagram in the afternoon challenge this weekend. I will ask for some coach feedback on my afternoon challenge with particular focus on these concepts. 
 
 ## Reflection
 
