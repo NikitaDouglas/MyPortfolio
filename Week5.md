@@ -8,38 +8,51 @@
 
 #### Plans to achieve:
 
-1. Work through thermostat challenge, creating a cool web-app (no pun intended).
-2. Use Thermostat/Bowling to learn JS, read lots of documentation on JS structures and best practices
+1. Work through thermostat challenge, creating a web-app.
+2. 
 
 #### Evidence:
 
-1. [Thermostat Challenge Repo](https://github.com/DanGyi23/thermostatjs)
-2. [Bowling challenge here](https://github.com/DanGyi23/wk5-bowling)
+1.
+2.
 
 ## Daily Goals
 
 #### Monday 16th September
-- GOAL: Understand *some* Javascript syntax and structure
-- PLAN: Write some JS!
-- EVIDENCE: Translated some Ruby common objects to JS [here](https://github.com/DanGyi23/translation_exercise)
+- GOAL: 
+- PLAN:
+- EVIDENCE:
 
 #### Tuesday 17th September
-- GOAL: Understand encapsulation
-- PLAN: Write some JS that encapsulates behaviour within a constructor class
-- EVIDENCE: [Paired Airport Challenge](https://github.com/BigTallJim/AirportJS)
+- GOAL:
+- PLAN:
+- EVIDENCE:
 
 #### Wednesday 18th September
-- GOAL: Understand Module Pattern 
-- PLAN: Complete skills workshop on Module pattern
-- EVIDENCE: [Workshop completed here](https://github.com/DanGyi23/module-pattern)
+- GOAL:
+- PLAN:
+- EVIDENCE: 
 
 #### Thursday 19th September
-- GOAL: Understand AJAX (Asynchronous Javascript and HTML) fundamentals
-- PLAN: Implement weather API for Thermostat project
-- EVIDENCE: [Thermostat Project](https://github.com/DanGyi23/thermostatjs)
+- GOAL:
+- PLAN:
+- EVIDENCE:
 
 #### Friday 20th September
-- GOAL: Make progress on Bowling Challenge, introduce basic structure
-- PLAN: Create constructor classes and test framework
-- EVIDENCE: [Bowling Project](https://github.com/DanGyi23/wk5-bowling)
+- GOAL: 
+- PLAN: 
+- EVIDENCE: 
+
+## Reflection
+
+### Question 1
+
+*Did you meet all of your goals to the standard you set at the start of the week?*
+
+
+### Question 2
+
+*What would you change/improve moving forward?*
+
+
 
