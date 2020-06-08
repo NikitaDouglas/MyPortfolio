@@ -9,19 +9,19 @@
 #### Plans to achieve:
 
 1. Work through thermostat challenge, creating a web-app.
-2. 
+2. Read up on learning new languages and make notes on how to do this for future learning attempts. 
 
 #### Evidence:
 
-1.
-2.
+1. A repo for the thermostat challenge. 
+2. A set of notes and ideas on how to go about learning a language. 
 
 ## Daily Goals
 
 #### Monday 16th September
-- GOAL: 
-- PLAN:
-- EVIDENCE:
+- GOAL: To remember some strategies for learning an new language. 
+- PLAN: Firstly, I'm going to read [this article](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A) on learning a new language. Then I'm going to work through the JavaScript explainers in the [Technical Learning Resources](https://airtable.com/shrbaXgV5mQnsvuGe/tblokmw6yNUO75ge6) for this week.
+- EVIDENCE: A set of notes on strategies for learning a new language, and some direction for the future as to what strategies work best for me based on my learning style. 
 
 #### Tuesday 17th September
 - GOAL:
