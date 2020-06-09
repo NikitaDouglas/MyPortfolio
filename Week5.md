@@ -26,9 +26,9 @@
   - SELF-ASSESSMENT: So, on reflection, there's no danger that by the end of today I was going to have a full set of notes on how to learn a new language; what I do have is a start. I read the aforementioned article and began to create [my Ruby/JavaScript dictionary](https://drive.google.com/file/d/1YT-5ZpmonaLAH1DrkNIYzpgv_rhpxbF3/view?usp=sharing), and I've learnt a few that should help me to get on with coding in JavaScript this week. However, I'm worried about only seeing similarity, and not comparing for contrast, the danger being that I won't appreciate the fundamental difference of JavaScript (of which I'm aware generally, if not specifically), and thus won't understand when the gaseous bubbles of quirk rise from the deep-sea trench of difference. I'll keep going with the dictionary, but tomorrow I'd also like to have a loook at articles that explain the fundamental difference in how the language is structured.
   
 #### Tuesday 17th September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: To continue to learn strategies to learn a new language, particularly investigating the difference between Ruby and JavaScript.
+- PLAN: Research the fundamental difference between the two languages. Continue filling out the Ruby/JavaScript dictionary. 
+- EVIDENCE: A more completed dictionary. Some notes on the structural difference between Ruby and JavaScript as languages.
 
 #### Wednesday 18th September
 - GOAL:
