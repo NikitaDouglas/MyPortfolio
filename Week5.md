@@ -31,9 +31,9 @@
 - EVIDENCE: A more completed dictionary. Some notes on the structural difference between Ruby and JavaScript as languages.
 
 #### Wednesday 18th September
-- GOAL:
-- PLAN:
-- EVIDENCE: 
+- GOAL:  To learn about functionas and arrays in JavaScript. 
+- PLAN: Read this article on [functions](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) and this one on [arrays](https://github.com/makersacademy/course/blob/master/pills/js_arrays.md). 
+- EVIDENCE: Notes on both topics. 
 
 #### Thursday 19th September
 - GOAL:
