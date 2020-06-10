@@ -29,11 +29,14 @@
 - GOAL: To continue to learn strategies to learn a new language, particularly investigating the difference between Ruby and JavaScript.
 - PLAN: Research the fundamental difference between the two languages. Continue filling out the Ruby/JavaScript dictionary. 
 - EVIDENCE: A more completed dictionary. Some notes on the structural difference between Ruby and JavaScript as languages.
+- FEEDBACK:
+  - SELF-ASSESSMENT: The workshop on the constructor/protoype pattern was really useful this morning, but it went on for longer than was set and I wasn't able to read any of the aritcles that I wanted to read. Tomorrow, I will specify a couple of articles that I really want to get though and will prioritise those. The workshop was useful and I was able to use the pattern in the afternoon challenge.
+  - COACH: I also got some feedback from Katerina on the work I did in the workshop yesterday. I'd suitably demonstrated the constructor/protoype pattern, but probably could have thought through my objects/messages table in porder that the correct objects were responsible for the correct outcomes. 
 
 #### Wednesday 18th September
 - GOAL:  To learn about functionas and arrays in JavaScript. 
 - PLAN: Read this article on [functions](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) and this one on [arrays](https://github.com/makersacademy/course/blob/master/pills/js_arrays.md). 
-- EVIDENCE: Notes on both topics. 
+- EVIDENCE: Notes on both topics.
 
 #### Thursday 19th September
 - GOAL:
