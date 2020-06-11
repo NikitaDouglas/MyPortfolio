@@ -37,11 +37,13 @@
 - GOAL:  To learn about functionas and arrays in JavaScript. 
 - PLAN: Read this article on [functions](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) and this one on [arrays](https://github.com/makersacademy/course/blob/master/pills/js_arrays.md). 
 - EVIDENCE: Notes on both topics.
+- FEEDBACK:
+  - SELF-ASSESSMENT: Thankfully the workshop ran to time this morning so I was able to get on with making these notes, and I managed to explore the "this" keyword, the concept of falsy in Javascript, and the ES6 classes syntax. I feel like I am getting to grips with Javascript, though I'm not sure how much I've been paying attention to the skill of learning a new language, so I'll try and make notes on that tomorrow. 
 
 #### Thursday 19th September
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: To understand closures in Javascript.
+- PLAN: Begin with the [closures practical](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q), and do further research as necessary.
+- EVIDENCE: Make notes on closures, and start to compile list for skills to learn a new language. 
 
 #### Friday 20th September
 - GOAL: 
