@@ -47,8 +47,12 @@
 
 #### Friday 20th September
 - GOAL: 
-- PLAN: 
-- EVIDENCE: 
+  - To understand the event loop and asynchronicity in Javascript.  
+  - To compile a list of notes to help me learn another language in future. 
+- PLAN: Watch the video on [asynchronicity and the event loop](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md).
+- EVIDENCE:
+  - Notes on the event loop and asynchronicity. 
+  - Notes on learning languages. 
 
 ## Reflection
 
