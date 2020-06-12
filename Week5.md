@@ -41,9 +41,16 @@
   - SELF-ASSESSMENT: Thankfully the workshop ran to time this morning so I was able to get on with making these notes, and I managed to explore the "this" keyword, the concept of falsy in Javascript, and the ES6 classes syntax. I feel like I am getting to grips with Javascript, though I'm not sure how much I've been paying attention to the skill of learning a new language, so I'll try and make notes on that tomorrow. 
 
 #### Thursday 19th September
-- GOAL: To understand closures in Javascript.
+- GOAL: 
+- To explore the AJAX request/response cycle and the function of callbacks. 
+- To understand closures in Javascript.
 - PLAN: Begin with the [closures practical](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q), and do further research as necessary.
-- EVIDENCE: Make notes on closures, and start to compile list for skills to learn a new language. 
+- EVIDENCE: Make notes on closures.
+- FEEDBACK:
+- **AJAX and Callbacks*
+  - SELF-ASSESSMENT: I paired with Rachael over the practical workshop on [AJAX](https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control) [callbacks](https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control). I feel like I can define what AJAX is and where it is used, but I'm still not entirely clear on the definition/function of callbacks - I'll try and crystalize this tomorrow when I look at the event loop.
+- **CLOSURES**
+  - SELF-ASSESSMENT: This was a really tricky topic; I can explain what a closure is but I'm not sure I could consciously apply that knowledge and use it in context. 
 
 #### Friday 20th September
 - GOAL: 
