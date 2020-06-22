@@ -9,21 +9,30 @@
 #### Plans to achieve:
 
 1. 
-2. 
-3. 
+  - Go through [Notes SPA](https://github.com/makersacademy/course/tree/master/further_javascript) in either the challenge or project styles. 
+  - Ask Tatsiana or Eóin about another small JS project I can potentially use in the mornings to test out my learning.
+2. Begin the week by consolidating my current JS knowledge, listing the concepts I do know and those I want to work on.  
+3. Revisit workshop notes on asynchronous JS. Apply this knowledge in the Notes app. 
 
 #### Evidence:
 
 1. 
-2. 
+  - A Notes app repo.
+  &&/|| 
+  - Another small JS project repo - potentially something that I can build on.
+2. A list of current competencies, and those I need to work on - evidence that I have moved *some* items from the latter to the former. 
 3. 
+  - A Notes app repo.
+  &&/||
+  - Another small JS project repo - ask for a code review on this. 
 
 ## Daily Goals
 
 #### Monday 30th September
-- GOAL: 
-- PLAN: 
+- GOAL: To assess my current JS knowledge.
+- PLAN: Make a two-column list of what I do know, and what I need to learn. 
 - EVIDENCE: 
+- FEEDBACK:
 
 #### Tuesday 1st October
 - GOAL:
