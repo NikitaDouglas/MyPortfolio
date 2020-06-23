@@ -31,12 +31,13 @@
 #### Monday 30th September
 - GOAL: To assess my current JS knowledge.
 - PLAN: Make a two-column list of what I do know, and what I need to learn. 
-- EVIDENCE: 
-- FEEDBACK:
+- EVIDENCE: I've done the columns and have started working on transferring stuff over to the **What I Know** column from the **What I Don't Know Yet** columns. I looked at some ES6 class syntax and did a code snippet from one of the practicals. 
+- FEEDBACK: 
+  - SELF-ASSESSMENT: I feel a lot more confident in my JavaScript ability right now - there are things I know, and I can work on improving that knowledge over this week. 
 
 #### Tuesday 1st October
-- GOAL:
-- PLAN: 
+- GOAL: To remember and understand the Ajax Request/Response cycle.
+- PLAN: Look over my notes from last week's practical, and research other intro guides. Create a code snippet in my JS folder. 
 - EVIDENCE: 
 
 #### Wednesday 2nd October
