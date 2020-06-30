@@ -3,20 +3,31 @@
 ## Weekly Goals
 
 1. Can you use high-quality processes to build a project in a team?
-2. [Project Criteria](https://github.com/makersacademy/course/blob/master/final_projects/project_criteria.md) must be met
+  - [Project Criteria](https://github.com/makersacademy/course/blob/master/final_projects/project_criteria.md) must be met.
+  - Record things that we learn 
+2. Learn how to use Heroku. 
+3. Learn how to use Rails. 
 
 #### Plans to achieve:
 
 1. Strictly follow project criteria. Continue to focus on process/TDD/understanding over completion.
-2. Be strict with process! Keep this open at all times. Maybe write blog post about process?
+  - Be strict with process! Keep the above document in mind when writing and committing. 
+2. Spend Tuesday morning researching and attempting to deploy app via Heroku. 
+3. Spend time this week working out how to use Rails. 
 
 #### Evidence:
 
-1. Followed strict TDD process, using Travis CI and branch merge rules to protect master. [Repo here](https://github.com/DanGyi23/acebook-rails-template-railz-rude-boiz) with Travis CI passing for all completed merges
-2. 
-- Write a [goals/planning based wiki](https://github.com/DanGyi23/acebook-rails-template-railz-rude-boiz/blob/master/Learning-WIKI/Railz-Rude-Boiz-Wiki.md) to do with our learnings. I also wrote a [blog post](https://medium.com/@daniel.gyi/integrating-active-storage-with-your-existing-devise-framework-rails-bf9fc65a43c1)!
-- Recorded screencaps after week1 vs week2 to show progress w.r.t. feature implementation. [Week1](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/Functionality-end-of-week-1.mov)
+1. Trello, linked to Github issues and merge requests, as well as Travis CI or alternative setup to protect Master branch. 
+2. Have deployed our app with Heroku - write a wiki page on this.
+3. Write a wiki using Rails. 
 
+## Daily Goals - Week 8
+
+**Tuesday 30th June**
+- GOAL: To understand how Heroku works. 
+- PLAN: Spend Tuesday morning researching Heroku, and try to make some progress with deployment. 
+- EVIDENCE: A deployed Heroku app. 
+- FEEDBACK: 
 
 ## Reflection
 
