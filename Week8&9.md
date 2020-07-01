@@ -27,6 +27,12 @@
 - GOAL: To understand how Heroku works. 
 - PLAN: Spend Tuesday morning researching Heroku, and try to make some progress with deployment. 
 - EVIDENCE: A deployed Heroku app. 
+- FEEDBACK: Success! We've managed to deploy our app to Heroku, and now we need to link it up to Travis. 
+
+**Wednesday 1st July**
+- GOAL: To understand how Travis interacts with simplecov, rubocop, and code climate.
+- PLAN: Continue to research how Travis interacts with our testing and code quality tools, using Stack Overflow and potentially asking Eóin. 
+- EVIDENCE: A `.travis.yml` file that will build our project with our testing suite and code quality tools.
 - FEEDBACK: 
 
 ## Reflection
